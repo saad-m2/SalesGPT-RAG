@@ -1,0 +1,6 @@
+query,relevant_docs
+energy efficiency solutions,data/raw/product_specs.pdf|data/raw/case_study_1.pdf
+PLC retrofit benefits,data/raw/technical_guide.pdf|data/raw/roi_analysis.pdf
+industrial automation,data/raw/automation_guide.pdf|data/raw/implementation_guide.pdf
+cost savings analysis,data/raw/roi_analysis.pdf|data/raw/case_study_2.pdf
+maintenance optimization,data/raw/maintenance_guide.pdf|data/raw/best_practices.pdf

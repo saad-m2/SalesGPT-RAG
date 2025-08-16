@@ -1,0 +1,30 @@
+# Web Application
+streamlit==1.37.0
+
+# HTTP and API
+requests>=2.31.0
+
+# Vector Database
+qdrant-client==1.9.2
+
+# Text Processing and Embeddings
+sentence-transformers==2.2.2
+PyPDF2>=3.0.0
+
+# Data Science and ML
+numpy>=1.26.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+
+# Environment and Configuration
+python-dotenv>=1.0.0
+
+# Search and Ranking
+rank-bm25==0.2.2
+
+# Utilities
+joblib>=1.3.2
+pathlib2>=2.3.7
+
+# Optional: For enhanced PDF processing
+# PyMuPDF==1.24.8  # Uncomment if you want to use PyMuPDF instead of PyPDF2
